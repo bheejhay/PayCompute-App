@@ -7,12 +7,13 @@ using PayComputeApp.Entity;
 
 namespace PayComputeApp.Persistence 
 {
-    public class ApplicationDbContext : IdentityDbContext   
+    public class ApplicationDbContext : IdentityDbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) 
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
         }
+            
 
         public DbSet<PaymentRecord> PaymentRecord { get; set; }
         public DbSet<Employee> Employees { get; set; }

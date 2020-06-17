@@ -12,3 +12,17 @@ C:\Users\PC\My Projects\repos\PaycomputeApp.Services\bin\Debug\netcoreapp3.1\Pay
 C:\Users\PC\My Projects\repos\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.csproj.CopyComplete
 C:\Users\PC\My Projects\repos\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.dll
 C:\Users\PC\My Projects\repos\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.pdb
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\bin\Debug\netcoreapp3.1\PaycomputeApp.Services.deps.json
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\bin\Debug\netcoreapp3.1\PaycomputeApp.Services.dll
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\bin\Debug\netcoreapp3.1\PaycomputeApp.Services.pdb
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\bin\Debug\netcoreapp3.1\PayComputeApp.Entity.dll
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\bin\Debug\netcoreapp3.1\PayComputeApp.Persistence.dll
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\bin\Debug\netcoreapp3.1\PayComputeApp.Entity.pdb
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\bin\Debug\netcoreapp3.1\PayComputeApp.Persistence.pdb
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.csprojAssemblyReference.cache
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.AssemblyInfoInputs.cache
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.AssemblyInfo.cs
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.csproj.CopyComplete
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.dll
+C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.pdb
