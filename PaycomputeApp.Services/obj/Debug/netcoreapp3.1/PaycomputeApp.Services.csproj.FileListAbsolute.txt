@@ -22,7 +22,6 @@ C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\bin\Debug\ne
 C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.csprojAssemblyReference.cache
 C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.AssemblyInfoInputs.cache
 C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.AssemblyInfo.cs
-C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.csproj.CoreCompileInputs.cache
 C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.csproj.CopyComplete
 C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.dll
 C:\Users\PC\My Projects\repos\PayComputeApps\PaycomputeApp.Services\obj\Debug\netcoreapp3.1\PaycomputeApp.Services.pdb

@@ -58,9 +58,8 @@ namespace PaycomputeApp.Services.Implementation
             throw new NotImplementedException();
         }
 
-        IEnumerable<Employee> IEmployeeService.GetAll()
-        {
-            throw new NotImplementedException();
-        }
+        IEnumerable<Employee> IEmployeeService.GetAll() => _context.Employees;
+
+
     }
 }
